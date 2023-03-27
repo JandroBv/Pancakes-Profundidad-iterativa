@@ -1,5 +1,4 @@
 import random
-import math
 class Pancakes:
 	def __init__(self, pancakes):
 		self.pancakes = pancakes
